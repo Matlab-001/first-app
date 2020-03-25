@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          Metlebin bomba divi
+          </div>
       </header>
     </div>
   );
